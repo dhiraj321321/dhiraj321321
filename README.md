@@ -3,7 +3,7 @@
 # 👋 Hey Champ!! Welcome to My Tech World!!
 
 <!-- Banner Image -->
-<img src="https://github.com/user-attachments/assets/05238288-b8fe-4bdb-936b-ed5960b53477" 
+<img src="[https://github.com/user-attachments/assets/05238288-b8fe-4bdb-936b-ed5960b53477](https://github.com/user-attachments/assets/223b0c34-1b33-40ae-babc-65e5a58ed553)" 
      alt="Dhiraj Parida Banner" 
      style="width:50%; border-radius: 10px;" />
 
@@ -123,5 +123,6 @@ Medicine purchase, reminders, appointments & resale.
 # ✨ Fun Fact
 **I love building systems that solve real-life problems.  
 Passion + Java + SQL = My perfect combo.**
-<img width="1248" height="832" alt="generated-image (2)" src="https://github.com/user-attachments/assets/05238288-b8fe-4bdb-936b-ed5960b53477" />
+
+
 
