@@ -8,6 +8,7 @@
      style="width:100%; border-radius: 10px;" />
 
 ---
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Feel+free+to+connect+with+me!;Java+Developer+Ready+to+Collaborate;Always+Learning+Always+Building)
 
 # **DHIRAJ PARIDA**  
 ### **Java Developer | Spring Boot | REST APIs | Scalable Backend Systems**
