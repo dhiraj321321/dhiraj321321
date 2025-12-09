@@ -5,7 +5,7 @@
 <!-- Banner Image -->
 <img src="https://github.com/user-attachments/assets/69a936d7-4362-49f4-931a-0a438a7cb3d8" 
      alt="Dhiraj Parida Banner" 
-     style="width:100%; border-radius: 10px;" />
+     style="width:50%; border-radius: 10px;" />
 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Feel+free+to+connect+with+me!;Java+Developer+Ready+to+Collaborate;Always+Learning+Always+Building)
